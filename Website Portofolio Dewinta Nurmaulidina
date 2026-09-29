@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Portofolio - Dewinta Nurmaulidina</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <h1>Portofolio Multimedia Saya</h1>
+  
+  <h2>Foto Profil</h2>
+  <img src="https://uploads.onecompiler.io/454nduad4/1790652030293/fotoprofil.jpg" alt="Foto Profil" width="200">
+  <h2 style="font-weight: bold;">Data Diri</h2>
+  <p>
+  Nama: Dewinta Nurmaulidina<br>
+  NIM: 25903460008<br>
+  Program Studi : Teknologi Rekayasa Multimedia<br>
+  Semester : 3<br>
+  Email : dewintanurmaulidina28@gmail.com<br>
+  </p>
+<br>
+  <h2>Tentang Saya</h2>
+  <p>
+    Saya adalah seorang mahasiswa yang berdedikasi tinggi dan memiliki disiplin ketat dalam menjalani kehidupan akademis.<br>
+    Di tengah kesibukan perkuliahan, saya menyalurkan kreativitas dan ekspresi diri melalui seni menggambar—sebuah hobi<br>
+    tidak hanya memperluas daya imajinasi saya, tetapi juga melatih ketelitian serta kesabaran. Kombinasi antara kedisiplinan<br>
+    belajar dan jiwa kreatif ini membentuk karakter saya sebagai individu yang adaptif, terstruktur, dan terus berkembang.
+  </p>
+<br>
+  <h2>Minat Multimedia</h2>
+  <p>
+    Di bidang multimedia, minat utama saya berfokus pada Desain Karakter dan Pemodelan 3D, di mana saya menyalurkan<br>
+    imajinasi serta ketelitian untuk menghidupkan visual dan menciptakan aset yang berkarakter. Selain itu, saya memiliki<br>
+    ketertarikan kuat dalam perancangan Storyboard untuk menyusun alur cerita visual yang terstruktur dan bermakna. 
+  <p/>
+  
+  <p>
+    Untuk melengkapi kemampuan visual tersebut, saya juga aktif mendalami UI/UX Design menggunakan Figma.<br>
+    Saya senang merancang antarmuka yang tidak hanya estetis secara visual, tetapi juga intuitif dan nyaman digunakan<br>
+    oleh pengguna. Kombinasi antara kemampuan seni visual, pemahaman ruang 3D, penceritaan visual,dan desain<br> 
+    pengalaman pengguna ini menjadi fondasi utama saya untuk terus berkarya dan berkembang di industri kreatif.
+  </p>
+<br>
+  <p>
+    <h2>Software yang Dikuasai / Ingin Dipelajari</h2>
+<ol>
+    <li>Figma</li>
+    <li>Blender 3D</li>
+    <li>Ibis Paint X</li>
+    <li>Adobe Illustrator</li>
+    <li>Adobe Animate</li>
+</ol>
+  </p>
+<br>
+  <p>
+    <h2>Karya Saya</h2>
+    <img src="https://uploads.onecompiler.io/454nduad4/1790653315474/dian1.jpeg" alt="Foto Profil" width="200">
+    <br>
+  Judul Karya : DiantaraLaut<br>
+  <br>
+  Dekripsi : "Ilustrasi desain karakter bernama Dian dengan nuansa kebiruan laut yang<br>
+  menggambarkan ketenangan dan keindahan laut."
+  </p>
+<br>
+  <p>
+    <img src="https://uploads.onecompiler.io/454nduad4/1790653354727/dian2.jpeg" alt="Foto Profil" width="200">
+    <br>
+  Judul Karya : Dian is Me!<br>
+  <br>
+  Dekripsi :"Ilustrasi digital Dian bergaya ceria (cheerful) yang menggambarkan karakter personal(Persona)<br>
+  dengan elemen-elemen favorit di sekitarnya. Karya ini memadukan warna-warna cerah dan komposisi<br>
+  yang playful untuk mencerminkan kepribadian ceria dan penuh energi."
+  </p>
+
+<br>
+  <p>
+    <h2>Riwayat Pendidikan</h2>
+    <table border="1">
+
+    <tr>
+        <th>No</th>
+        <th>Jenjang</th>
+        <th>Nama Sekolah</th>
+        <th>Tahun</th>
+    </tr>
+
+    <tr>
+        <td>1</td>
+        <td>PAUD</td>
+        <td>PAUD Belia Kita</td>
+        <td>2009</td>
+    </tr>
+
+    <tr>
+        <td>2</td>
+        <td>TK</td>
+        <td>TK Qurrota A'yun</td>
+        <td>2010</td>
+    </tr>
+
+    <tr>
+        <td>3</td>
+        <td>SD</td>
+        <td>SD Negeri Curug 3</td>
+        <td>2012</td>
+    </tr>
+
+    <tr>
+        <td>4</td>
+        <td>SMP</td>
+        <td>SMP Negeri 1 Rancabungur</td>
+        <td>2018</td>
+    </tr>
+
+    <tr>
+        <td>5</td>
+        <td>SMA</td>
+        <td>SMA Negeri 1 Rancabungur</td>
+        <td>2022</td>
+    </tr>
+
+    <tr>
+        <td>6</td>
+        <td>Universitas</td>
+        <td>Universitas Boash</td>
+        <td>2025-Sekarang</td>
+    </tr>
+    </table>
+  </p>
+<br>
+  <p>
+    <h2>Media Sosial</h2>
+    <ul>
+    <li><a href="https://www.instagram.com/diantara_laut?stkn=MmliMGlsdmlndXNs">Instagram</a><br></li>
+    <li><a href="https://github.com/skydew28">Github</a></li>
+    </ul>
+  </p>
+<br>
+  <p>
+    <h2> Cita-cita Saya di Industri Multimedia</h2>
+    "Cita-cita saya di industri multimedia adalah menciptakan karya animasi mandiri serta membangun Intellectual Property (IP)<br>
+    yang berkarakter unik dan khas. Melalui IP tersebut, saya ingin menghadirkan cerita-cerita anak yang mendidik serta menyajikan<br>
+    ilustrasi visual yang informatif untuk membantu orang lain memahami berbagai hal dengan lebih mudah dan menyenangkan.<br>
+    Saya percaya bahwa kombinasi antara penceritaan visual yang kuat dan desain karakter yang menarik dapat menjadi media<br>
+    yang efektif untuk memberikan dampak positif bagi masyarakat luas."
+  </p>
+</body>
+</html>
